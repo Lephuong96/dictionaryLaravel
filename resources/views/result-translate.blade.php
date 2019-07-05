@@ -1,0 +1,1 @@
+{{$keyword}} is a: {{$value}}
